@@ -52,8 +52,8 @@ const Z: TetriminoType = {
 
 const O: TetriminoType = {
   blocks: [
-    [0, 1, 0],
-    [1, 1, 1],
+    [1, 1, 0],
+    [1, 1, 0],
     [0, 0, 0],
   ],
   color: "green",
