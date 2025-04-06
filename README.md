@@ -8,6 +8,7 @@ To play the game :
 - ArrowLeft to move a block to the left
 - ArrowRight to move a block to the right
 - Space button to rotate a block
+- The score is the number of full lines made in the game
 
 
 ![game result](./capture-tetris-image.png)
