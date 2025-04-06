@@ -1,5 +1,5 @@
 
-#### A little game to experience tetris game development
+#### A little game to experiment tetris game development
 
 Here is an image of the result
 
